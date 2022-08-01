@@ -384,8 +384,11 @@ h1 {
     margin-bottom: 20px;
     width: 215px;
     height: 90px;
-    background-image: url("./imgs/footer-img.jpg");
+    background-image: url(./imgs/footer-img.jpg);
     border: 5px solid #555555;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
 
 .footer-ul  {
