@@ -337,7 +337,7 @@ h1 {
 .shout-button {
     font-size: 26px;
     color: #e5e4e4;
-    padding: 20px 12px;
+    padding: 15px 12px;
     border-radius: 10px;
     border: none;
     background-color: var(--blue-tone);
@@ -430,7 +430,7 @@ h1 {
 }
 
 .footer-p {
-    font-size: 13px;
+    font-size: 14px;
     color: var(--grey-text);
     padding: 20px 0;
 }
